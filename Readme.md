@@ -9,7 +9,7 @@ Import masomo-platform.sql into your database. Mysql workbench preferably.
 Now run the project on localhost.(http://localhost/E-Schools%20Ke/) Keep in mind of the space in between the project's name.
 
 ## To note
-In the 'Manage site' tab you can add more files, edit, delete and even create child categories in existing files.
+In the 'Manage site' tab acts as the backend. It can add more files, edit, delete and even create child categories in existing files.
 
 
 
