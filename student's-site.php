@@ -1,8 +1,7 @@
 <?php
 /*
  * @author Sharon Lagat
- * @facebook https://www.facebook.com/slagat7
- * @twitter https://twitter.com/LagatSharon
+ * @googleplus https://plus.google.com/sharonlagat/
 
  */
 
