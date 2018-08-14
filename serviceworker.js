@@ -7,16 +7,16 @@ var ekCachePagesName = 'ekCachePagesV1';
 var ekCacheFiles = [
   'js/student.js', 
   'php/index.php',
-  'php/student's-site.php',
-  'php/school-buzz.php',
+  'php/tutor.php',
+  'php/events.php',
   'php/contacts.php',
   'favicon.ico',
   './',
 
 ];
 
-var latestPath = '/E-Schools%20Ke/student's-site.php';
-var imagePath = '/E-Schools%20Ke/school-buzz.php';
+var latestPath = '/E-Schools%20Ke/tutor.php';
+var imagePath = '/E-Schools%20Ke/events.php';
 var carPath = '/E-Schools%20Ke/contact-us.php';
 
 //Installing
