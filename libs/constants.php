@@ -15,9 +15,9 @@ define('DB_PREFIX', 'mp_');
 
 define('DB_DRIVER', 'mysql');
 define('DB_HOST', 'localhost');
-define('DB_HOST_USERNAME', 'root');
-define('DB_HOST_PASSWORD', '');
-define('DB_DATABASE', 'eschoolske');
+define('DB_HOST_USERNAME', 'id6794635_root');
+define('DB_HOST_PASSWORD', 'root1996');
+define('DB_DATABASE', 'id6794635_eschoolskedb');
 
 define('SITE_NAME', 'E-SchoolsKe');
 
