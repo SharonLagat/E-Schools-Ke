@@ -5,7 +5,6 @@ var ekCacheImagesName = 'ekCacheImagesV1';
 var ekCachePagesName = 'ekCachePagesV1';
 
 var ekCacheFiles = [
-  'js/student.js', 
   'php/index.php',
   'php/tutor.php',
   'php/events.php',
