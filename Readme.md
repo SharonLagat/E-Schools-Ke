@@ -5,11 +5,11 @@ https://eschools-ke.000webhostapp.com/
 https://github.com/SharonLagat/E-Schools-Ke
 ## Purpose of E-Schools-Ke progressive web app
 This is a dynamic web app that allows for adding deleting and editing pages online. At the moment the existing pages are ' Become a Tutor' , 'Upcoming Events' and 'Contacting the admin'. 
-- ' Become a Tutor' - A user submits details and after submitting the details appear under available tutors.
-- 'Upcoming Events' shows sports and educational events coming up including dates and location.
-- 'Contact Us' allows for the user to send a message to the creator or admin.
+- [Become A Tutor](https://eschools-ke.000webhostapp.com/tutor.php/) - A user submits details and after submitting the details appear under available tutors.
+- [Upcoming Events](https://eschools-ke.000webhostapp.com/events.php/) shows sports and educational events coming up including dates and location.
+- [Contact Us](https://eschools-ke.000webhostapp.com/contact-us.php/) allows for the user to send a message to the creator or admin. In this case i receive the users message on my email account.
 
-- The 'Manage site' tab acts as the backend. It can add more files, edit, delete and even create child categories in existing files
+- The [Manage Site](https://eschools-ke.000webhostapp.com/manage-site/manage_pages.php/) tab acts as the backend. It can add more files, edit, delete and even create child categories in existing files
 
 ## Technology used
 The files are written in php. Also [Composer](https://getcomposer.org/) manages the dependencies and MySql as a local database.
@@ -19,7 +19,7 @@ I used https://www.000webhost.com/ to host the web app by following these steps;
  
 
 ## Service worker , manifest, offline, security headers, apis and webpack 
-I used composer for the libraries in my php project. There's a service worker and manifest.json too.
+- I created a service worker and manifest through following tutorials. 
 
 ## Demo
 
