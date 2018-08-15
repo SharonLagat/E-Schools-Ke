@@ -12,8 +12,11 @@ This is a dynamic web app that allows for adding deleting and editing pages onli
 - The 'Manage site' tab acts as the backend. It can add more files, edit, delete and even create child categories in existing files
 
 ## Technology used
-I used 000webhost to host the web app.
-Luckily it allows access to database through its own host/ phpmyadmin (https://databases.000webhost.com) so i provided the db name, username and password and used php functions to connect to that database.
+The files are written in php. Also [a link](https://getcomposer.org/) manages the dependencies and MySql as a local database.
+I used https://www.000webhost.com/ to host the web app by following these steps;
+   - Uploading all my files to the file manager
+   - Setting up the database since it has its own host/ phpmyadmin (https://databases.000webhost.com). I provided db name, username and      password and used php functions in the files to connect to that database.
+ 
 
 ## Service worker , manifest, offline, security headers, apis and webpack 
 I used composer for the libraries in my php project. There's a service worker and manifest.json too.
