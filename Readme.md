@@ -13,9 +13,9 @@ This is a dynamic web app that allows for adding deleting and editing pages onli
 
 ## Technology used
 I used 000webhost to host the web app.
-Luckily it allows to access database through its own host/ phpmyadmin so i provided the db name, username and password and used php functions to connect to that database.
+Luckily it allows access to database through its own host/ phpmyadmin (https://databases.000webhost.com) so i provided the db name, username and password and used php functions to connect to that database.
 
-## Service worker , manifest, offline, security headers and webpack 
+## Service worker , manifest, offline, security headers, apis and webpack 
 I used composer for the libraries in my php project. There's a service worker and manifest.json too.
 
 ## Demo
