@@ -19,7 +19,7 @@ I used https://www.000webhost.com/ to host the web app by following these steps;
  
 
 ## Service worker , manifest, offline, security headers, apis and webpack 
-- I created a [service worker](https://github.com/user/repo/blob/branch/other_file.md) and [manifest](https://github.com/user/repo/blob/branch/other_file.md) through following tutorials. 
+- I created a [service worker](https://github.com/SharonLagat/E-Schools-Ke/blob/master/sw.js) and [manifest](https://github.com/SharonLagat/E-Schools-Ke/blob/master/manifest.json) through following tutorials. 
 
 ## Demo
 
