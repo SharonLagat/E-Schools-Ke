@@ -1,0 +1,10 @@
+{
+  "name": "E-Schools-Ke",
+  "short_name": "Eschoolske",
+
+  "theme_color": "#45a049",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "scope": "https://eschools-ke.000webhostapp.com",
+  "start_url": "https://eschools-ke.000webhostapp.com/index.php?"
+}
