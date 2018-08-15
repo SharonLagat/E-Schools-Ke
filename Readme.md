@@ -5,9 +5,9 @@ https://eschools-ke.000webhostapp.com/
 https://github.com/SharonLagat/E-Schools-Ke
 ## Purpose of E-Schools-Ke progressive web app
 This is a dynamic web app that allows for adding deleting and editing pages online. At the moment the existing pages are ' Become a Tutor' , 'Upcoming Events' and 'Contacting the admin'. 
-- [Become A Tutor](https://eschools-ke.000webhostapp.com/tutor.php/) - A user submits details and after submitting the details appear under available tutors.
-- [Upcoming Events](https://eschools-ke.000webhostapp.com/events.php/) shows sports and educational events coming up including dates and location.
-- [Contact Us](https://eschools-ke.000webhostapp.com/contact-us.php/) allows for the user to send a message to the creator or admin. In this case i receive the users message on my email account.
+- Become A Tutor - enables a user to submits details below it shows available tutors after the button is clicked.
+- Upcoming Events- shows sports and educational events coming up including dates and location.
+- Contact Us - allows for the user to send a message to the creator or admin. In this case i receive the users message on my email account.
 
 - The [Manage Site](https://eschools-ke.000webhostapp.com/manage-site/manage_pages.php/) tab acts as the backend. It can add more files, edit, delete and even create child categories in existing files
 
