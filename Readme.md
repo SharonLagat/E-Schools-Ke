@@ -9,7 +9,7 @@ This is a dynamic web app that allows for adding deleting and editing pages onli
 - Upcoming Events- shows sports and educational events coming up including dates and location.
 - Contact Us - allows for the user to send a message to the creator or admin. In this case i receive the users message on my email account.
 
-- The [Manage Site](https://eschools-ke.000webhostapp.com/manage-site/manage_pages.php/) tab acts as the backend. It can add more files, edit, delete and even create child categories in existing files
+- The 'Manage Site' tab acts as the backend. It can add more files, edit, delete and even create child categories in existing files
 
 ## Technology used
 The files are written in php. Also [Composer](https://getcomposer.org/) manages the dependencies and MySql as a local database.
