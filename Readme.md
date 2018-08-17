@@ -32,7 +32,7 @@ https://eschools-ke.000webhostapp.com/
 
 ## To note
 App is responsive on mobile and desktop.
-Here's a ![screenshot](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png) of how the homepage is displayed on a phone.
+Here's a ![screenshot](https://github.com/SharonLagat/E-Schools-Ke/blob/master/images/phone%20display.JPG) of how the homepage is displayed on a phone.
 
 
 
