@@ -31,7 +31,9 @@ I used https://www.000webhost.com/ to host the web app by following these steps;
 https://eschools-ke.000webhostapp.com/ 
 
 ## To note
-App is responsive on mobile and desktop
+App is responsive on mobile and desktop.
+Here's a ![screenshot](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png) of how the homepage is displayed on a phone.
+
 
 
 
