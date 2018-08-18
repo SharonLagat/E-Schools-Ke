@@ -24,7 +24,7 @@ I used https://www.000webhost.com/ to host the web app by following these steps;
 - To enable Subresource integrity one has to upgrade to another plan which is not free in the web host so i didnt use it.
 - I used one workbox webpack following this tutorial [here](https://developers.google.com/web/tools/workbox/guides/get-started/) which allows you to listen for requests from your web page and determine if and how that request should be cached and responded to. This only works if you have an updated chrome otherwise it gives a violation.
 - Used Google fonts API to add fonts to web pages.
-- As for security the web app is a secure since the site has a valid server certificate.
+- As for security the web app is secure since the site has a valid server certificate.
 
 
 ## Demo
